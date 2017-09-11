@@ -34108,3 +34108,9 @@ Date:   Wed Aug 30 15:37:02 2017 +0200
     * Fix test
     
     * Fix wrong signers
+
+commit 0bf71014b407780f74ce4428b3046777cf1d448b
+Author: budmc29 <chirica.mugurel@gmail.com>
+Date:   Mon Sep 11 20:39:56 2017 +0100
+
+     Play setup
